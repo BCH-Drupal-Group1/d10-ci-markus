@@ -1,4 +1,4 @@
-Testing workflow
+[![Deploy to Pantheon](https://github.com/BCH-Drupal-Group1/d10-ci-markus/actions/workflows/deploy-to-pantheon.yml/badge.svg)](https://github.com/BCH-Drupal-Group1/d10-ci-markus/actions/workflows/deploy-to-pantheon.yml)
 
 # Composer-enabled Drupal template
 
