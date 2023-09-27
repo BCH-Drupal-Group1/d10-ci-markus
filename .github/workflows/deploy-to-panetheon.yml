@@ -4,7 +4,7 @@ on:
     branches:
       - main
 env:
-  PANTHEON_SITE: d10markusVJH
+  PANTHEON_SITE: d10markusvjh
   PANTHEON_SITE_ID: 52a8917b-614a-4e16-943e-4d127cf907fe
   PANTHEON_ENV: dev
 
