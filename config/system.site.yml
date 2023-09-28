@@ -2,7 +2,7 @@ _core:
   default_config_hash: VDJxTZtQR21qB4lvOq8zszJZLvLKrSPQpdn2E3T71Ww
 langcode: en-gb
 uuid: c33cd286-a108-4429-ac81-dbb1db2e4851
-name: 'Local Pantheon site with Lando'
+name: 'Local Pantheon site with Lando Hello'
 mail: test@test.com
 slogan: ''
 page:
